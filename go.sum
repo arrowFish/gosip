@@ -5,6 +5,8 @@ github.com/discoviking/fsm v0.0.0-20150126104936-f4a273feecca/go.mod h1:W+3LQaEk
 github.com/fsnotify/fsnotify v1.4.7/go.mod h1:jwhsz4b93w/PPRr/qN1Yymfu8t87LnFCMoQvtojpjFo=
 github.com/fsnotify/fsnotify v1.4.9 h1:hsms1Qyu0jgnwNXIxa+/V/PDsU6CfLf6CNO8H7IWoS4=
 github.com/fsnotify/fsnotify v1.4.9/go.mod h1:znqG4EE+3YCdAaPaxE2ZRY/06pZUdp0tY4IgpuI1SZQ=
+github.com/ghettovoice/gosip v0.0.0-20250915072952-a5cc076018cd h1:bx2dfdy72KBjGHVXLXOzLjnICzZLGLzMJnEAROrXHXs=
+github.com/ghettovoice/gosip v0.0.0-20250915072952-a5cc076018cd/go.mod h1:rlD1yLOErWYohWTryG/2bTTpmzB79p52ntLA/uIFXeI=
 github.com/gobwas/httphead v0.1.0 h1:exrUm0f4YX0L7EBwZHuCF4GDp8aJfVeBrlLQrs6NqWU=
 github.com/gobwas/httphead v0.1.0/go.mod h1:O/RXo79gxV8G+RqlR/otEwx4Q36zl9rqC5u12GKvMCM=
 github.com/gobwas/pool v0.2.1 h1:xfeeEhW7pwmX8nuLVlqbzVc7udMDrwetjEv+TZIz1og=
